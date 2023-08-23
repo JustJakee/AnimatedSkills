@@ -1,6 +1,8 @@
 # AnimatedSkills
 
 You can use these skill bars to display your skills on your website/portfolio!
+
+![chrome_Ln910YVuHF](https://github.com/JustJakee/AnimatedSkills/assets/45543899/0ac2a5c0-a28f-4a85-9d28-0640d35e4169)
  
  Steps to Run this Project:
  
@@ -21,9 +23,9 @@ You can use these skill bars to display your skills on your website/portfolio!
 
  ![UlxfyUZVth](https://github.com/JustJakee/AnimatedSkills/assets/45543899/dfe65442-402e-4728-b250-e1ca6160ae72)
     
- 10. Check the browser to see the code running LIVE. (Example Below)
+ 10. Check the browser to see the code running LIVE. (Example at the Top)
 
-![chrome_Ln910YVuHF](https://github.com/JustJakee/AnimatedSkills/assets/45543899/0ac2a5c0-a28f-4a85-9d28-0640d35e4169)
+
 
 
 
