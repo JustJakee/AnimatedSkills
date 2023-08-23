@@ -15,15 +15,15 @@ You can use these skill bars to display your skills on your website/portfolio!
 
  6. Click this to open a live sever to run the code.
 
-  ![Live](https://github.com/JustJakee/AnimatedSkills/assets/45543899/4068b92d-f7f8-42d7-8407-246fd495591d)
+ ![VzMKuoCKio](https://github.com/JustJakee/AnimatedSkills/assets/45543899/7603ab5e-e868-47e3-a2a5-d7cf3f3f5c31)
     
  8. You will see the server running on port 5500
 
- ![Port](https://github.com/JustJakee/AnimatedSkills/assets/45543899/885a14dd-f61b-4e16-85f8-125781442f8b)
+ ![UlxfyUZVth](https://github.com/JustJakee/AnimatedSkills/assets/45543899/dfe65442-402e-4728-b250-e1ca6160ae72)
     
  10. Check the browser to see the code running LIVE. (Example Below)
 
- ![chrome_Ln910YVuHF](https://github.com/JustJakee/AnimatedSkills/assets/45543899/16c7bfdf-6536-4c55-abcf-70df3aa8209f)
+![chrome_Ln910YVuHF](https://github.com/JustJakee/AnimatedSkills/assets/45543899/0ac2a5c0-a28f-4a85-9d28-0640d35e4169)
 
 
 
